@@ -1,7 +1,9 @@
 {% extends "layout/index.twig" %}
 
-{% block title %}My Staq HelloWorld MVC{% endblock %}
+{% block title %}{{ page.title }}{% endblock %}
 
 {% block content %}
-	Hello World MVC
+    {% autoescape false %}
+	    {{ page.content }}
+    {% endautoescape %}
 {% endblock %}

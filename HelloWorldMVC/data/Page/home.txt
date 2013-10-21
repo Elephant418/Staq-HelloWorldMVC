@@ -1,0 +1,2 @@
+This is an Hello World,
+made with a Staq MVC structure.
