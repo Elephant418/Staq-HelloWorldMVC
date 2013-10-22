@@ -3,7 +3,7 @@ Staq HelloWorld MVC Example
 
 [Staq](https://github.com/pixel418/Staq) is a modern & innovative PHP framework for enjoyable web development.
 
-This project is a simple Staq HelloWorld example, that show you the MVC organisation.
+This project is a simple Staq HelloWorld example, that show you the MVC structure.
 
 
 
